@@ -1,4 +1,4 @@
-#Pricing Microservice
+## Pricing Microservice
 
 ## Synopsis
 As part of the tutorial https://www.infoq.com/articles/Microservices-SpringBoot
